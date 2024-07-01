@@ -7,7 +7,6 @@
 
 👩🏻‍💻 Sou desenvolvedor front-end com 7 anos de experiência, com foco em React e React Native.
 
-🎯 Meu objetivo é conseguir atingir o ser um espesialista em Front-end dominando as principais ferramentas. 
 
 💜 Seja muito bem vindo ao meu Github!
   
