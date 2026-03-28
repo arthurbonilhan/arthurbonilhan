@@ -5,7 +5,10 @@
 ## Olá 
 🎓 Meu nome é Arthur Bonilha, Front-end developer senior. 
 
-👩🏻‍💻 Sou desenvolvedor front-end com 7 anos de experiência, com foco em React e React Native.
+- Desenvolvedor Front-End Sênior com +8 anos de experiência em desenvolvimento de sistemas web e aplicações escaláveis.
+Especialista em React e Angular, com forte atuação em arquitetura de front-end, micro front-ends e integrações com
+APIs REST. Experiência em ambientes ágeis, code review e colaboração com times multidisciplinares, contribuindo
+para entregas de alto impacto e performance.
 
 
 💜 Seja muito bem vindo ao meu Github!
